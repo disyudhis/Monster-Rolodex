@@ -1,3 +1,6 @@
+![Screenshot 2023-07-27 161559](https://github.com/disyudhis/Monster-Rolodex/assets/84625580/9c86a7ab-5767-4b64-a8bb-218c0f0b96b7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
